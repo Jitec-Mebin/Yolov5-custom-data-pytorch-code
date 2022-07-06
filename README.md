@@ -3,6 +3,6 @@ Yolo-v5 custom data pytorch code
 
 Under water detection 
 
-can use it for any object detection problems- Vehicle detection , human detection ,mask,helmet,tumour ,mediacl image detection etc....
+can use it for any object detection problems- Vehicle detection , human detection ,mask,helmet,tumor ,medical image detection etc....
 
 
